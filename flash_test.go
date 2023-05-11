@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/kernelhuang/session"
 	"github.com/lunny/tango"
-	"github.com/tango-contrib/session"
 )
 
 type FlashAction struct {

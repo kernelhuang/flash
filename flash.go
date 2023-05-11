@@ -7,8 +7,8 @@ package flash
 import (
 	"net/url"
 
+	"github.com/kernelhuang/session"
 	"github.com/lunny/tango"
-	"github.com/tango-contrib/session"
 )
 
 var (
